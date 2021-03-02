@@ -1,0 +1,17 @@
+F:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\bin\Debug\CapaDTO.dll
+F:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\bin\Debug\CapaDTO.pdb
+F:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.csprojAssemblyReference.cache
+F:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+F:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.dll
+F:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.pdb
+D:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\bin\Debug\CapaDTO.dll
+D:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\bin\Debug\CapaDTO.pdb
+D:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+D:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.dll
+D:\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.pdb
+D:\DATOS\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\bin\Debug\CapaDTO.dll
+D:\DATOS\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\bin\Debug\CapaDTO.pdb
+D:\DATOS\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.csprojAssemblyReference.cache
+D:\DATOS\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.csproj.CoreCompileInputs.cache
+D:\DATOS\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.dll
+D:\DATOS\DATOS\DUOC\DEY\BARBERSHOP\CapaDTO\obj\Debug\CapaDTO.pdb
